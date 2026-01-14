@@ -1,1 +1,0 @@
-# Development Docker Configuration
